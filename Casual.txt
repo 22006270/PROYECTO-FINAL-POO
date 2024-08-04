@@ -1,0 +1,17 @@
+
+109
+charly
+200.0
+rojo
+charly
+20.0
+sintetico
+deportivo
+110
+charly
+200.0
+rojo
+ch
+29.0
+sintetico
+deporte

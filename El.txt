@@ -1,0 +1,17 @@
+
+104
+nombre
+190.3
+Azul
+Nike
+Grande
+Tela
+Masculino
+114
+Tom
+150.0
+Roja
+Tom
+S
+Licra
+Polo
